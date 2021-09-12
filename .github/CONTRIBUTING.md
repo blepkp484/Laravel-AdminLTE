@@ -27,3 +27,4 @@ After you have cloned the forked repository locally and put some work on your ne
 Please, do not commit the `vendor` or `<build-folder>` in your **Pull Request**. Also, note all the package tests are grouped into the `tests` folder.
 
 To keep the dependencies up-to-date before running the tests, you can execute `composer update` from time to time.
+
